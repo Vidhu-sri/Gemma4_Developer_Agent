@@ -1,0 +1,12 @@
+.env
+data/
+results/
+tables/
+*.safetensors
+
+# Python and uv artifacts
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
